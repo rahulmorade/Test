@@ -1,6 +1,6 @@
 import React from "react";
 
-function sample(){
+function samplee(){
     return(
         <div>
             <h1>Sample component</h1>
@@ -9,4 +9,4 @@ function sample(){
         </div>
     )
 }
-export default sample;
+export default samplee;
